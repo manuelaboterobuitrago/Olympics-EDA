@@ -56,7 +56,7 @@ La base de datos utilizada contiene información detallada sobre los Juegos Olí
 
 🚀 Al observar la frecuencia de participación en diferentes deportes, puedes identificar los deportes más populares en la historia olímpica. Por ejemplo, deportes como atletismo y natación tienen altas tasas de participación, lo cual muestra su relevancia y universalidad en los Juegos.
 
-🚀La edad promedio de los atletas ganadores en distintas disciplinas y países puede dar una idea de las edades en las que los atletas suelen alcanzar su máximo rendimiento. Esto podría variar entre deportes (por ejemplo, gimnasia vs. maratón).
+🚀La edad en la que los atletas alcanzan su máximo potencial es un factor multifactorial que varía significativamente entre deportes y países. Si bien el rango de los 21 a los 27 años es común, deportes como la gimnasia y el maratón ilustran cómo factores como la fisiología, la técnica y la estrategia pueden influir en la edad ideal para competir al más alto nivel.
 
 🚀 A lo largo del tiempo, el atletismo muestra un crecimiento notable en el número de medallas ganadas. A partir de 1950, este deporte experimenta un aumento significativo, consolidándose como el deporte con mayor cantidad de medallas.
 
