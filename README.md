@@ -3,7 +3,7 @@
 
 Por: Manuela Botero Buitrago 
 
-Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la base de datos de los Juegos Olímpicos, disponible en Kaggle. Utilizando Python, exploramos las características de los datos, visualizamos patrones y extraemos conclusiones clave sobre la participación, desempeño y características de los atletas a lo largo de los años.
+Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la base de datos de los Juegos Olímpicos, disponible en Kaggle. Utilizando Python, se exploró las características de los datos, visualización de patrones y se generó conclusiones clave sobre la participación, desempeño y características de los atletas a lo largo de los años.
 
 **Descripción de los Datos**
 La base de datos utilizada contiene información detallada sobre los Juegos Olímpicos, incluyendo:
