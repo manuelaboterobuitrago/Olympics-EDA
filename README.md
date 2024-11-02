@@ -50,9 +50,10 @@ La base de datos utilizada contiene información detallada sobre los Juegos Olí
 
 
 **Resultados** 
-🚀 Analizar el total de medallas ganadas por cada país y su evolución a lo largo del tiempo muestra patrones de dominancia Estados Unidos. Por ejemplo, tiene un historial de liderazgo en medallas en varias ediciones de los Juegos Olímpicos, lo que puede relacionarse con su inversión en deportes de alto rendimiento.
 
-🚀Analizar los datos de participación por género en cada edición puede mostrar cómo la igualdad de género en los deportes ha avanzado en los últimos años. Esto es relevante para reflejar cambios en la inclusión y diversidad en el deporte a nivel global.
+🚀 El total de medallas ganadas por cada país y su evolución a lo largo del tiempo muestra patrones de dominancia Estados Unidos. Por ejemplo, tiene un historial de liderazgo en medallas en varias ediciones de los Juegos Olímpicos, lo que puede relacionarse con su inversión en deportes de alto rendimiento.
+
+🚀Los datos de participación por género en cada edición puede mostrar cómo la igualdad de género en los deportes ha avanzado en los últimos años. Esto es relevante para reflejar cambios en la inclusión y diversidad en el deporte a nivel global.
 
 🚀 Al observar la frecuencia de participación en diferentes deportes, puedes identificar los deportes más populares en la historia olímpica. Por ejemplo, deportes como atletismo y natación tienen altas tasas de participación, lo cual muestra su relevancia y universalidad en los Juegos.
 
